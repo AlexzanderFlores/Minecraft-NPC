@@ -1,0 +1,5 @@
+name: NPC
+main: npc.NPCLib
+version: 1.0
+authors: [AlexzanderFlores]
+softdepend: [Holograms]
